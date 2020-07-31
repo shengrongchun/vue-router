@@ -15,7 +15,7 @@ import { HTML5History } from './history/html5'
 import { AbstractHistory } from './history/abstract'
 
 import type { Matcher } from './create-matcher'
-
+//这是注释
 export default class VueRouter {
   static install: () => void;
   static version: string;
